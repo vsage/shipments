@@ -4,9 +4,9 @@ module.exports.expressConf = {
 }
 
 module.exports.dbConf = {
-  user: 'postgres',
+  user: '',
   host: '127.0.0.1',
-  database: 'glexport_development',
+  database: '',
   password: '',
   port: 5432,
 }
